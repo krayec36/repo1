@@ -2,4 +2,8 @@ def calc(a,b):
 
     return a+b
 
+a = input("napisz coś: ")
+
+print("coś "+ a)
+
 
