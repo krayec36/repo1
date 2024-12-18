@@ -1,5 +1,5 @@
-test
+def calc(a,b):
 
-trst 2
+    return a+b
 
 
